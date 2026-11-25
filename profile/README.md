@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./structa-welcome-dark.svg">
-    <img src="./structa-welcome.svg" alt="Structa. Space for work. Room for life." width="100%">
+    <img src="./structa-welcome-light.svg" alt="Structa. Space for work. Room for life." width="100%">
   </picture>
 </p>
 
