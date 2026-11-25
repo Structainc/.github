@@ -1,11 +1,14 @@
 <p align="center">
-  <img src="./structa-welcome.svg" alt="Structa. Tools for work and space for life." width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./structa-welcome-dark.svg">
+    <img src="./structa-welcome.svg" alt="Structa. Space for work. Room for life." width="100%">
+  </picture>
 </p>
 
 <p align="center">
-  <a href="https://www.structainc.com/"><img alt="Visit Structa" src="https://img.shields.io/badge/WEBSITE-Explore%20Structa-3A52C3?style=flat-square"></a>
-  <a href="https://structalife.com/"><img alt="Explore Structa Life" src="https://img.shields.io/badge/LIFE-Explore%20Life-376953?style=flat-square"></a>
-  <a href="https://www.structainc.com/changelog"><img alt="Read the changelog" src="https://img.shields.io/badge/UPDATES-Changelog-52617B?style=flat-square"></a>
+  <a href="https://www.structainc.com/"><img alt="Visit Structa" src="https://img.shields.io/badge/WEBSITE-Explore%20Structa-17181B?style=flat-square"></a>
+  <a href="https://structalife.com/"><img alt="Explore Structa Life" src="https://img.shields.io/badge/LIFE-Explore%20Life-3D4047?style=flat-square"></a>
+  <a href="https://www.structainc.com/changelog"><img alt="Read the changelog" src="https://img.shields.io/badge/UPDATES-Changelog-62666F?style=flat-square"></a>
 </p>
 
 # Welcome to Structa
