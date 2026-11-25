@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="320" viewBox="0 0 1050 320" role="img" aria-labelledby="title desc">
+  <title id="title">Structa</title>
+  <desc id="desc">A midnight-blue banner with two intersecting orbital paths. Tools for work. Space for life.</desc>
+  <defs>
+    <linearGradient id="background" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop stop-color="#10192e"/>
+      <stop offset="1" stop-color="#15274a"/>
+    </linearGradient>
+    <pattern id="grid" width="23" height="23" patternUnits="userSpaceOnUse">
+      <circle cx="1.4" cy="1.4" r="1.1" fill="#b1c9ff" opacity=".24"/>
+    </pattern>
+    <clipPath id="card"><rect width="1050" height="320" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1050" height="320" fill="url(#background)"/>
+    <ellipse cx="837" cy="174" rx="275" ry="222" fill="#788ded" opacity=".11"/>
+    <rect x="595" y="30" width="420" height="260" fill="url(#grid)" opacity=".62"/>
+    <g fill="none" stroke-width="1.7">
+      <path d="M664 245 C620 208 914 29 974 81 C1020 121 724 296 664 245Z" stroke="#9baaff"/>
+      <path d="M666 84 C727 30 1017 209 977 246 C917 303 620 121 666 84Z" stroke="#91e1b1"/>
+      <circle cx="820" cy="166" r="41" stroke="#eaf1ff" stroke-opacity=".35"/>
+    </g>
+    <g fill="#9baaff"><circle cx="694" cy="226" r="6"/><circle cx="936" cy="108" r="4"/></g>
+    <g fill="#91e1b1"><circle cx="942" cy="222" r="6"/><circle cx="708" cy="99" r="4"/></g>
+    <circle cx="820" cy="166" r="6" fill="#f5f7ff"/>
+    <path d="M62 254H985" stroke="#dae5ff" stroke-opacity=".23"/>
+    <g font-family="Helvetica, Arial, sans-serif">
+      <text x="62" y="76" font-size="17" font-weight="650" fill="#9baaff">STRUCTA TECHNOLOGIES</text>
+      <text x="58" y="158" font-size="81" font-weight="720" fill="#f5f7ff">Structa</text>
+      <text x="62" y="211" font-size="26" font-weight="450" fill="#d2dcee">Tools for work. Space for life.</text>
+      <text x="62" y="285" font-size="13" font-weight="650" fill="#c0cde2">BUSINESS</text>
+      <circle cx="161" cy="280" r="2" fill="#9baaff"/>
+      <text x="177" y="285" font-size="13" font-weight="650" fill="#c0cde2">LIFE</text>
+      <circle cx="225" cy="280" r="2" fill="#91e1b1"/>
+      <text x="240" y="285" font-size="13" font-weight="650" fill="#c0cde2">STRUCTA ID</text>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="1049" height="319" rx="22" fill="none" stroke="#91a5d1" stroke-opacity=".45"/>
+</svg>
